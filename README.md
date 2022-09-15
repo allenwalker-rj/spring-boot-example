@@ -11,7 +11,7 @@
 - **Maven 3.6 +**
 - **IntelliJ IDEA ULTIMATE 2022.1.2 +**
 - **Mysql 5.7 +** (8.0以上的版本也行，但是可能出现一些兼容性问题)
-- **spring boot version 2.7.4**
+- **spring boot version 2.7.3**
 
 ### Module介绍
 
