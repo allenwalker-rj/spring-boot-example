@@ -13,6 +13,7 @@
 
     <modules>
         <module>springboot-mongodb</module>
+        <module>springboot-properties</module>
     </modules>
 
     <properties>
