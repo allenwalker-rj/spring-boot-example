@@ -18,4 +18,5 @@
 | Module 名称                                        | Module 介绍                                   |
 |--------------------------------------------------|---------------------------------------------|
 | [springboot-mongodb](./springboot-mongodb)       | spring-boot 集成 MongoDB，使用官方的 starter 实现增删改查 |
-| [springboot-properties](./springboot-properties) | spring-boot 读取配置文件中的内容                        |
+| [springboot-properties](./springboot-properties) | spring-boot 读取配置文件中的内容                      |
+| [srpingboot-redis](./springboot-redis)           | spring-boot 集成 redis，添加序列化                  |
